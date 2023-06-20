@@ -1,1 +1,3 @@
-# ALX Zero Day Git
+# My first readme
+
+This is so cool
